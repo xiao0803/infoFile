@@ -1,0 +1,13 @@
+
+#：GitHub库存放的项目
+除去工作公司相关、thirdPartyPay、thirdPartyServer项目，其它的都存放在此处。
+
+
+#：gitee（云码）库存放的项目
+1：myProject-thirdPartyPay
+2：myProject-thirdPartyServer
+
+
+
+
+
