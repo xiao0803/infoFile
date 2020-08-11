@@ -3,6 +3,7 @@
 @：gitee（云码）库存放的项目
 #：thirdPartyPay
 #：thirdPartyServer
+#：transaction
 
 @：移动硬盘存放的项目
 工作公司的相关项目，即z前缀文件的项目。
